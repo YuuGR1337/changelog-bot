@@ -21,7 +21,7 @@ The GitHub repository is [necoz-oss/changelog-bot](https://github.com/necoz-oss/
 - **CI-native:** Works as a GitHub Action, reusable workflow, or plain CLI—no fragile scripting required.
 
 > [!IMPORTANT]
-> This project is currently in its early stages (`v0.0.x`).
+> This project is currently in its `v0.x` stage and evolving toward a stable `v1.0.0` release.
 > Interfaces and behaviors may change without notice until `v1.0.0`.
 > If you plan to integrate it into production workflows, please pin the exact version to avoid unexpected breaking changes.
 
